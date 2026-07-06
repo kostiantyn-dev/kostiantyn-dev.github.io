@@ -1,9 +1,9 @@
-# Костя — frontend portfolio
+# Костя — frontend case lab
 
-Публічна портфоліо-сторінка з трьома кейсами лендингів:
+Публічне інтерактивне портфоліо frontend-розробника з трьома кейсами бізнес-лендингів:
 
 - ChairLine HoReCa
 - MoveMate
 - VoltLine
 
-Сайт опублікований через GitHub Pages: https://kostiantyn-dev.github.io
+Сайт: https://kostiantyn-dev.github.io/index.html
