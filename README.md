@@ -5,6 +5,6 @@
 - ChairLine HoReCa
 - MoveMate
 - VoltLine
-- Target Depth
+- Аліна Силка — Meta Ads та Google Ads
 
 Сайт: https://kostiantyn-dev.github.io/index.html
